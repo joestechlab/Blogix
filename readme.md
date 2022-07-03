@@ -1,1 +1,1 @@
-# Blogix, a simple CMS.
+# Blogix, a simple Blog.
