@@ -1,1 +1,1 @@
-# Blogix, a simple Blog.
+# Blogix, a simple blog.
